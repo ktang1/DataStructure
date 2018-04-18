@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=Node(java.lang.String)
+comment1.params=e
+comment1.target=void\ insert(Node)
+comment10.params=
+comment10.target=java.lang.String\ getName()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=p
+comment2.target=Node\ search(java.lang.String)
+comment3.params=currRoot
+comment3.target=Node\ printPreOrder(Node)
+comment4.params=currRoot
+comment4.target=Node\ printInOrder(Node)
+comment5.params=currRoot
+comment5.target=Node\ printPostOrder(Node)
+comment6.params=e
+comment6.target=void\ setLeft(Node)
+comment7.params=e
+comment7.target=void\ setRight(Node)
+comment8.params=
+comment8.target=Node\ getLeft()
+comment9.params=
+comment9.target=Node\ getRight()
+numComments=12

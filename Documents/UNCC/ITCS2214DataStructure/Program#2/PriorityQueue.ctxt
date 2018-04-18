@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PriorityQueue()
+comment1.params=c
+comment1.target=void\ addCustomer(PriorityCustomer)
+comment2.params=
+comment2.target=PriorityCustomer\ removeCustomer()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=PriorityCustomer\ peek()
+comment5.params=
+comment5.target=int\ getsize()
+numComments=6

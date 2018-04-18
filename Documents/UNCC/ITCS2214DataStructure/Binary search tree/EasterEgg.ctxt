@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EasterEgg()
+comment1.params=p
+comment1.target=EasterEgg(int)
+comment2.params=e
+comment2.target=void\ add(EasterEgg)
+comment3.params=p
+comment3.target=EasterEgg\ search(int)
+comment4.params=e
+comment4.target=void\ setLeft(EasterEgg)
+comment5.params=e
+comment5.target=void\ setRight(EasterEgg)
+comment6.params=
+comment6.target=EasterEgg\ getLeft()
+comment7.params=
+comment7.target=EasterEgg\ getRight()
+comment8.params=
+comment8.target=int\ getPrettyness()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
